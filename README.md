@@ -16,7 +16,8 @@ Short explanation of what the project does.
 - Responsive UI with Bootstrap 5
 
 ## Folder Structure
-YourProject/
+```
+porfolio-santola/
 │
 ├── Controllers/
 │   ├── HomeController.cs
