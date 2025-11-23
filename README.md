@@ -1,7 +1,9 @@
 # Project Title
 
 ## Description
-Short explanation of what the project does.
+
+
+I am a computer science student who loves building real-world projects. I enjoy learning new technologies and creating web applications with modern tools and clean design.
 
 ## Tech Stack
 - ASP.NET MVC
@@ -10,9 +12,6 @@ Short explanation of what the project does.
 - SQL Server
 
 ## Features
-- User login & registration
-- CRUD operations for products
-- Admin dashboard
 - Responsive UI with Bootstrap 5
 
 ## Folder Structure
